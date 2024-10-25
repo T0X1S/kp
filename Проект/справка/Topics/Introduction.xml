@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" modified="2024-06-17T10:04:22.486+03:00" lasteditedby="мартин" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Общие сведения</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">Общие сведения</para>
+    </header>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;">Это справка к игровому приложению &quot;DelphiCraft&quot;. </text><text styleclass="Normal" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; text-decoration:none; vertical-align:baseline; color:#000000;">DelphiCraft — это аналог компьютерной игры в жанре песочницы. Игра позволяет игрокам строить и разрушать различные виды блоков в трёхмерном пространстве, исследовать открытый мир.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><link displaytype="text" defaultstyle="true" type="topiclink" href="Welcome-topic" styleclass="Normal" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; text-decoration:none; vertical-align:baseline; color:#000000;">О программе</link></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><link displaytype="text" defaultstyle="true" type="topiclink" href="Second-topic" styleclass="Normal" style="font-family:&apos;Times New Roman&apos;; font-size:14pt; text-decoration:none; vertical-align:baseline; color:#000000;">Об авторе</link></para>
+  </body>
+</topic>

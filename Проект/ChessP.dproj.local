@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.323,C:\Users\user\Desktop\delphi-chess-master\EngineFileInterpreter.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,F:\Chess\Code\PawnPromoteUI.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,F:\Chess\Code\PawnPromoteUI.dfm=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\Chess\Code\Unit1.pas=E:\Chess\Code\EngineDialogs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=C:\Users\user\Desktop\delphi-chess-master\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.xml,F:\Chess\Code\Help.xml=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.005,C:\Users\user\Desktop\delphi-chess-master\LoadU.pas=C:\Users\user\Desktop\delphi-chess-master\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Users\user\Desktop\delphi-chess-master\HelpU.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Chess\Code\Unit1.dfm=D:\Chess\Code\Launcher.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.007,C:\Users\user\Desktop\delphi-chess-master\LoadU.dfm=C:\Users\user\Desktop\delphi-chess-master\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.dfm,F:\Chess\Code\Unit1.dfm=F:\Chess\Code\HelpU.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,E:\Chess\Code\EngineDialogs.pas=E:\Chess\Code\EngineUI.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,D:\Chess\Code\Unit1.pas=D:\Chess\Code\Launcher.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,C:\Users\user\Desktop\delphi-chess-master\EngineAnimations.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,F:\Chess\Code\Unit1.pas=F:\Chess\Code\EngineFileInterpreter.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.pas,F:\Chess\Code\Unit1.pas=F:\Chess\Code\HelpU.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="EngineClasses.pas"/>
+    <File Path="EngineUI.pas"/>
+    <File Path="Launcher.pas"/>
+    <File Path="Launcher.dfm"/>
+    <File Path="PlayerU.pas"/>
+    <File Path="PlayerU.dfm"/>
+    <File Path="LoadU.pas"/>
+    <File Path="LoadU.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

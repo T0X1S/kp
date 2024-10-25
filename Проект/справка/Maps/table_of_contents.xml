@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="454602660651877" build="ALL" modified="2024-06-17T08:57:34.227Z" icon="0" href="Introduction">
+    <caption translate="true">Общие сведения</caption>
+    <topicref type="topic" id="454602477389329" build="ALL" modified="2024-06-17T08:57:47.725Z" icon="0" href="Welcome-topic">
+      <caption translate="true">О программе</caption>
+    </topicref>
+    <topicref type="topic" id="454602607916188" build="ALL" modified="2024-06-17T08:57:51.623Z" icon="0" href="Second-topic">
+      <caption translate="true">Об авторе</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="454603312004781" build="ALL" modified="2024-06-17T08:58:26.889Z" icon="0" href="Chapter-2">
+    <caption translate="true">Руководство к применению</caption>
+    <topicref type="topic" id="454602516559264" build="ALL" modified="2024-06-17T08:58:38.385Z" icon="0" href="Overview">
+      <caption translate="true">Управление игры</caption>
+    </topicref>
+  </topicref>
+</map>
